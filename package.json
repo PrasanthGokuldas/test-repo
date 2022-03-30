@@ -21,6 +21,7 @@
     "react-lazyload": "^3.0.0",
     "react-static": "^7.2.0",
     "react-static-plugin-favicons": "^2.0.0",
+    "react-static-plugin-google-tag-manager": "^1.2.0",
     "react-static-plugin-reach-router": "^7.2.0",
     "react-static-plugin-sass": "^7.2.2",
     "react-static-plugin-sitemap": "^7.2.0",

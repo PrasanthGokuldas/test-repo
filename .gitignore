@@ -78,3 +78,12 @@ dist/templates/__react_static_root__/src/pages/404.8f248d18.js
 dist/templates/__react_static_root__/src/pages/about-us.761ed5c1.js
 dist/templates/__react_static_root__/src/pages/home-page.cf1b1cd6.js
 dist/templates/__react_static_root__/src/pages/index.d2b039b0.js
+node_modules
+dist/main.c97714e4.js
+dist/templates/styles.f0f2e598.js
+dist/templates/vendors~main.53ee73b0.js
+dist/templates/__react_static_root__/src/pages/404.67525325.js
+dist/templates/__react_static_root__/src/pages/about-us.a694b90d.js
+dist/templates/__react_static_root__/src/pages/home-page.6a24ba0a.js
+dist/templates/__react_static_root__/src/pages/index.2ab1ec6b.js
+yarn.lock

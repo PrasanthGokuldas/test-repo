@@ -39,6 +39,13 @@ export default {
   },
   plugins: [
     [
+      require.resolve('react-static-plugin-google-tag-manager'),
+      {
+        id: '135548',
+        debug: true,
+      },
+    ],
+    [
       require.resolve('react-static-plugin-source-filesystem'),
       {
         location: path.resolve('./src/pages'),

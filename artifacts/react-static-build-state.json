@@ -16,15 +16,22 @@
   "entry": "index.js",
   "plugins": [
     [
-      "C:\\Drive-E\\9-jan-2022 TestCopy\\node_modules\\react-static-plugin-source-filesystem\\node.api.js",
+      "C:\\Drive-E\\copy git\\test-repo\\node_modules\\react-static-plugin-google-tag-manager\\dist\\node.api.js",
       {
-        "location": "C:\\Drive-E\\9-jan-2022 TestCopy\\src\\pages"
+        "id": "135548",
+        "debug": true
+      }
+    ],
+    [
+      "C:\\Drive-E\\copy git\\test-repo\\node_modules\\react-static-plugin-source-filesystem\\node.api.js",
+      {
+        "location": "C:\\Drive-E\\copy git\\test-repo\\src\\pages"
       }
     ],
     [
       "react-static-plugin-favicons",
       {
-        "inputFile": "C:\\Drive-E\\9-jan-2022 TestCopy\\favicon\\android-chrome-192x192.png"
+        "inputFile": "C:\\Drive-E\\copy git\\test-repo\\favicon\\android-chrome-192x192.png"
       }
     ],
     [
@@ -33,24 +40,24 @@
         "includePaths": "src/pages/sass/"
       }
     ],
-    "C:\\Drive-E\\9-jan-2022 TestCopy\\node_modules\\react-static-plugin-reach-router\\browser.api.js",
-    "C:\\Drive-E\\9-jan-2022 TestCopy\\node_modules\\react-static-plugin-sitemap\\dist\\node.api.js",
-    "C:\\Drive-E\\9-jan-2022 TestCopy"
+    "C:\\Drive-E\\copy git\\test-repo\\node_modules\\react-static-plugin-reach-router\\browser.api.js",
+    "C:\\Drive-E\\copy git\\test-repo\\node_modules\\react-static-plugin-sitemap\\dist\\node.api.js",
+    "C:\\Drive-E\\copy git\\test-repo"
   ],
   "paths": {
-    "ROOT": "C:\\Drive-E\\9-jan-2022 TestCopy",
-    "SRC": "C:\\Drive-E\\9-jan-2022 TestCopy\\src",
-    "DIST": "C:\\Drive-E\\9-jan-2022 TestCopy\\dist",
-    "ASSETS": "C:\\Drive-E\\9-jan-2022 TestCopy\\dist",
-    "PLUGINS": "C:\\Drive-E\\9-jan-2022 TestCopy\\plugins",
-    "TEMP": "C:\\Drive-E\\9-jan-2022 TestCopy\\tmp",
-    "ARTIFACTS": "C:\\Drive-E\\9-jan-2022 TestCopy\\artifacts",
-    "PUBLIC": "C:\\Drive-E\\9-jan-2022 TestCopy\\public",
-    "NODE_MODULES": "C:\\Drive-E\\9-jan-2022 TestCopy\\node_modules",
-    "EXCLUDE_MODULES": "C:\\Drive-E\\9-jan-2022 TestCopy\\node_modules",
-    "PACKAGE": "C:\\Drive-E\\9-jan-2022 TestCopy\\package.json",
-    "HTML_TEMPLATE": "C:\\Drive-E\\9-jan-2022 TestCopy\\dist\\index.html",
-    "STATIC_DATA": "C:\\Drive-E\\9-jan-2022 TestCopy\\dist\\staticData"
+    "ROOT": "C:\\Drive-E\\copy git\\test-repo",
+    "SRC": "C:\\Drive-E\\copy git\\test-repo\\src",
+    "DIST": "C:\\Drive-E\\copy git\\test-repo\\dist",
+    "ASSETS": "C:\\Drive-E\\copy git\\test-repo\\dist",
+    "PLUGINS": "C:\\Drive-E\\copy git\\test-repo\\plugins",
+    "TEMP": "C:\\Drive-E\\copy git\\test-repo\\tmp",
+    "ARTIFACTS": "C:\\Drive-E\\copy git\\test-repo\\artifacts",
+    "PUBLIC": "C:\\Drive-E\\copy git\\test-repo\\public",
+    "NODE_MODULES": "C:\\Drive-E\\copy git\\test-repo\\node_modules",
+    "EXCLUDE_MODULES": "C:\\Drive-E\\copy git\\test-repo\\node_modules",
+    "PACKAGE": "C:\\Drive-E\\copy git\\test-repo\\package.json",
+    "HTML_TEMPLATE": "C:\\Drive-E\\copy git\\test-repo\\dist\\index.html",
+    "STATIC_DATA": "C:\\Drive-E\\copy git\\test-repo\\dist\\staticData"
   },
   "siteRoot": "/",
   "basePath": "",
